@@ -24,3 +24,14 @@ console.log(typeof(emp))
 let emp_null=Number(emp)
 console.log(typeof emp_null)
 
+
+//Concat the string
+console.log("1"+2)//answer is 12 string type
+console.log("1"+2+2)//answer is 122 string type
+console.log("Null compare")
+console.log(null>0);
+console.log(null>=0);
+console.log(null==0);//== work diffrentlt from >=
+
+console.log("stricct compare")
+console.log("2"===2)
