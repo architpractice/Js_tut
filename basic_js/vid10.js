@@ -13,3 +13,5 @@ let myobj={
 const fun=function(){
     console.log('hello');
 }
+//Stack(Primitive)
+//Heap(non premitive,we get refernec)
